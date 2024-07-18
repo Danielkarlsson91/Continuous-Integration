@@ -1,2 +1,2 @@
 # Continuous-Integration
-Exercises/projects in commucation protocols
+Exercises/projects in the continuous integration course
